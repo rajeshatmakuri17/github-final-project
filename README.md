@@ -19,7 +19,7 @@ A simple bash script that calculates simple interest given principal, annual rat
    ```
 2. Navigate into the project directory:
    ```bash
-   cd simple-interest-calculator
+   cd github-final-project
    ```
 
 ### Usage
